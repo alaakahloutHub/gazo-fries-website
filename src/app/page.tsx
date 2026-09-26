@@ -94,7 +94,7 @@ export default function HomePage() {
             href="#menu"
             className="bg-[#FF6D00] hover:bg-[#e06000] text-white text-sm font-bold px-5 py-2.5 rounded-xl transition-all shadow-md shadow-[#FF6D00]/20 hover:scale-105 active:scale-95"
           >
-            اطلب الآن 🍔
+            اطلب الآن
           </a>
         </div>
       </header>
